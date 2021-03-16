@@ -2,15 +2,15 @@
 
 exports[`Pruebas sobre el componente contador Probando con enzyme 1`] = `
 <Fragment>
-  <p>
-    HOLA SOY CONTADOR Fredy
-  </p>
   <h1>
-    HOLA SOY FREDY
+    Hola Soy Contador Santiago
   </h1>
   <h2>
-    0
+    Hola soy Santiago
   </h2>
+  <h3>
+    0
+  </h3>
   <button
     onClick={[Function]}
   >

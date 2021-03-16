@@ -1,8 +1,8 @@
-//Leonardo Bolaños García 1826808
-import Contador from './contador'
-import React from 'react';
-import ReactDOM from 'react-dom';
+//Santiago Calderon 1842025
+import Contador from "./contador";
+import React from "react";
+import ReactDOM from "react-dom";
 
-const divRoot = document.querySelector('#root');
+const divRoot = document.querySelector("#root");
 
-ReactDOM.render(<Contador name="Leonardo Bolaños" propNum={10} />, divRoot);
+ReactDOM.render(<Contador name="Santiago Calderon" propNum={5} />, divRoot);
